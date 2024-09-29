@@ -79,6 +79,11 @@ window.data = [
         "Je n'en peux plus / Je meurs de faim."
     ),
     figure(
+        "Énumération",
+        "Liste de mots de même nature ou de même fonction.",
+        "Dans mon jardin, il y a des fraises, des cerises, des pêches et des bananes."
+    ),
+    figure(
         "Gradation croissante",
         "Suite de mots classée du moins fort au plus fort (Idée de montée en puissance).",
         "Depuis le temps qu'elle me suit à la trace, me colle à la peau, me ronge les os."
@@ -165,6 +170,11 @@ window.data = [
         "Je me lève, lave, boit, mange, avant d'entamer mon cours."
     ),
     figure(
+        "polysyndète",
+        "Répétition excessif de mot coordinant (inverse de asyndète ).",
+        "Soit lui, soit moi, soit un autre."
+    ),
+    figure(
         "Polyptote",
         "Reprise mot sous formes différentes => Insistance.",
         "Je suis tombé déjà, je puis tomber encore, <i>Les Contemplations</i>, Victor Hugo."
@@ -183,5 +193,10 @@ window.data = [
         "Hypallage",
         "Figure de déplacement / Fait d'associer un mot à un élément de la phrase alors qu'il irait mieux à un autre mot.",
         "Rendre qqn à la vie pour rendre la vie à qqn."
+    ),
+    figure(
+        "antonomase",
+        "fait d'utiliser un nom propre ou commun pour designer une catégorie typique de personne.",
+        "Un don Juan  pour un grand séducteur."
     ),
 ]
