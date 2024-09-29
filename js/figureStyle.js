@@ -109,7 +109,7 @@ window.data = [
         "Dieu aima les oiseaux l'homme aima les oiseaux."
     ),
     figure(
-        "épanahore",
+        "épanaphore",
         "répétition stylistique d'une même formule et d'une même structure au début de phrases successives.",
         "Tout le bas, tout le faible et tout l'indigne s'y trouvent (<i>La Bruyère</i>)."
     ),
