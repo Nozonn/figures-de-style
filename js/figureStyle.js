@@ -95,8 +95,18 @@ window.data = [
     ),
     figure(
         "Oxymore",
+        "Fait de coller 2 mots opposés afin de créer une entité surprenante.",
+        "Un silence éloquant / Une douce violence."
+    ),
+    figure(
+        "Parallélisme",
         "Reprise symétrique de la même structure grammatical.",
         "Dieu aima les oiseaux l'homme aima les oiseaux."
+    ),
+    figure(
+        "épanahore",
+        "répétition stylistique d'une même formule et d'une même structure au début de phrases successives.",
+        "Tout le bas, tout le faible et tout l'indigne s'y trouvent (<i>La Bruyère</i>)."
     ),
     figure(
         "Chiasme",
@@ -115,7 +125,7 @@ window.data = [
         "Il s'en rappela, qu'il y a 10 ans."
     ),
     figure(
-        "Prolèpse",
+        "Prolepse",
         "figure d'anticipation.",
         "J'aurais mon bac."
     ),
