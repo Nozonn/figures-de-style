@@ -125,7 +125,7 @@ window.data = [
     ),
 
     figure(
-        "Analexe",
+        "Analepse",
         "Retour arrière (flashback).",
         "Il s'en rappela, qu'il y a 10 ans."
     ),
